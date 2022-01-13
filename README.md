@@ -1,7 +1,6 @@
 # 🌏 Hello, world! I'm Evelyn 👋
 
 I work at Amazon where I do internal quality assurance to ensure the integrity of our marketplaces.<br>
-My day to day involves a lot of data analytics. 
 
 Prior to that, I spent half a decade working in game development, notably at [Wargaming](https://na.wargaming.net/en) and [SEGA](https://www.sega.com/games).
 
